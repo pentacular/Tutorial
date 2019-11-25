@@ -212,8 +212,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 508,
-                    "y": 59,
+                    "x": 499,
+                    "y": 91,
                     "uniqueID": 636389,
                     "ioValues": [
                         {
@@ -255,8 +255,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 698,
-                    "y": 196,
+                    "x": 735,
+                    "y": 204,
                     "uniqueID": 449683,
                     "ioValues": []
                 },
@@ -285,8 +285,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 995,
-                    "y": 133,
+                    "x": 910,
+                    "y": 304,
                     "uniqueID": 781152,
                     "ioValues": [
                         {
@@ -295,6 +295,31 @@
                         }
                     ],
                     "removeCutawayGeometry": true
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 1059,
+                    "y": 208,
+                    "uniqueID": 965905,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Readme",
