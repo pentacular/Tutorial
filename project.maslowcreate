@@ -285,16 +285,12 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 959,
-                    "y": 156,
-                    "uniqueID": 140877,
+                    "x": 995,
+                    "y": 133,
+                    "uniqueID": 781152,
                     "ioValues": [
                         {
-                            "name": "2D shape 829766",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 555303",
+                            "name": "3D shape 792483",
                             "ioValue": 10
                         }
                     ],
@@ -303,8 +299,8 @@
                 {
                     "atomType": "Readme",
                     "name": "README",
-                    "x": 1098,
-                    "y": 136,
+                    "x": 1272,
+                    "y": 93,
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
@@ -361,21 +357,10 @@
                     "ap2ID": 742531
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 555303",
-                    "ap1ID": 449683,
-                    "ap2ID": 140877
-                },
-                {
                     "ap1Name": "Geometry",
-                    "ap2Name": "2D shape 829766",
+                    "ap2Name": "3D shape 792483",
                     "ap1ID": 742531,
-                    "ap2ID": 140877
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 140877
+                    "ap2ID": 781152
                 }
             ],
             "fileTypeVersion": 1
