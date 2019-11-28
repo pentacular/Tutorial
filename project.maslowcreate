@@ -17,8 +17,8 @@
                 {
                     "atomType": "Input",
                     "name": "Shape",
-                    "x": 89,
-                    "y": 55,
+                    "x": 155,
+                    "y": 76,
                     "uniqueID": 394263,
                     "ioValues": [
                         {
@@ -39,8 +39,8 @@
                 {
                     "atomType": "Input",
                     "name": "Radius",
-                    "x": 89,
-                    "y": 291,
+                    "x": 206,
+                    "y": 258,
                     "uniqueID": 385685,
                     "ioValues": [
                         {
@@ -58,7 +58,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 9.9
                         },
                         {
                             "name": "y-axis degrees",
@@ -113,6 +113,12 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 394263,
+                    "ap2ID": 304604
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x-axis degrees",
+                    "ap1ID": 385685,
                     "ap2ID": 304604
                 },
                 {
